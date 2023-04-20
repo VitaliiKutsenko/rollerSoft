@@ -35,7 +35,7 @@ export const getUserById = async (id: string) => {
 export const getPostByUserId = async (id: number, start: number) => {
   try {
     const { data } = await $api.get<PostsModel[]>(
-      `/users/${id}/posts?_start=${start}&_limit=2`
+      `/users/${id}/posts?_start=${start}&_limit=3`
     );
     return data;
   } catch (error) {

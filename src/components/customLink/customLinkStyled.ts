@@ -1,15 +1,28 @@
 import styled from "styled-components";
 
-export const NavLinksWrapper = styled.div`
-  padding: 2px;
-  max-width: fit-content;
-  height: fit-content;
-  position: relative;
+export const NavLinksWrapper = styled.li`
+  & ~ * {
+    transition: 0.3s linear;
+  }
+
+  flex: 1 1 100%;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  overflow: hidden;
+  margin: 10px;
+  padding: 10px;
+  gap: 5px;
+  border-radius: 6px;
+  cursor: pointer;
+  background: white;
+  box-shadow: 0 0 1px 0.5px rgba(0, 0, 0, 0.5);
+
+  &:hover {
+    box-shadow: 0 0 3px 1px purple;
+  }
+
+  & p {
+    pointer-events: none;
+  }
   & a {
     position: relative;
     font-size: 18px;
@@ -19,19 +32,5 @@ export const NavLinksWrapper = styled.div`
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 100%;
-  }
-  & a::before {
-    content: "";
-    width: 0;
-    border-bottom: 2px inset ${({ color }) => color || "rgba(0,0,0,0.2)"};
-    bottom: 0;
-    position: absolute;
-    transition: 0.3s linear;
-  }
-
-  & a:hover::before {
-    transition: 0.3s linear;
-    width: 100%;
   }
 `;

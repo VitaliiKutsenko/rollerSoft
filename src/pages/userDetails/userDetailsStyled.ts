@@ -7,9 +7,8 @@ export const UserDetailsWrapper = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  background: rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.3);
   backdrop-filter: blur(5px);
-  z-index: 1;
   top: 0;
   left: 0;
 `;
