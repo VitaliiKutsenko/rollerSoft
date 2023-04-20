@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/VitaliiKutsenko/rollerSoft/static/css/main.e6c13ad2.css",
+    "main.js": "/VitaliiKutsenko/rollerSoft/static/js/main.59f9235b.js",
+    "index.html": "/VitaliiKutsenko/rollerSoft/index.html",
+    "static/media/arrow-left.svg": "/VitaliiKutsenko/rollerSoft/static/media/arrow-left.9e2eff7653d257bf4d8884cbc36e8480.svg",
+    "static/media/arrow-right.svg": "/VitaliiKutsenko/rollerSoft/static/media/arrow-right.60a47adc8708b4070363fbb09e1c698e.svg",
+    "static/media/cross.svg": "/VitaliiKutsenko/rollerSoft/static/media/cross.0bc6da048ea47615deaa4fd1f061ba67.svg",
+    "main.e6c13ad2.css.map": "/VitaliiKutsenko/rollerSoft/static/css/main.e6c13ad2.css.map",
+    "main.59f9235b.js.map": "/VitaliiKutsenko/rollerSoft/static/js/main.59f9235b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.59f9235b.js"
+  ]
+}
