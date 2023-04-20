@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rollerSoft/static/css/main.e6c13ad2.css",
-    "main.js": "/rollerSoft/static/js/main.096b111e.js",
+    "main.js": "/rollerSoft/static/js/main.9cafd77b.js",
     "index.html": "/rollerSoft/index.html",
     "static/media/arrow-left.svg": "/rollerSoft/static/media/arrow-left.9e2eff7653d257bf4d8884cbc36e8480.svg",
     "static/media/arrow-right.svg": "/rollerSoft/static/media/arrow-right.60a47adc8708b4070363fbb09e1c698e.svg",
     "static/media/cross.svg": "/rollerSoft/static/media/cross.0bc6da048ea47615deaa4fd1f061ba67.svg",
     "main.e6c13ad2.css.map": "/rollerSoft/static/css/main.e6c13ad2.css.map",
-    "main.096b111e.js.map": "/rollerSoft/static/js/main.096b111e.js.map"
+    "main.9cafd77b.js.map": "/rollerSoft/static/js/main.9cafd77b.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.096b111e.js"
+    "static/js/main.9cafd77b.js"
   ]
 }
