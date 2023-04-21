@@ -1,13 +1,15 @@
 Запуск стандартный: npm start
+</br>
                     npm build
+                    </br>
                     npm deploy (для gh-pages)
-
+</br>
 Версия Node: 18.16.0
 Сторонние библиотеки: 
-  styled components,
-  axios,react-query,
-  typescript,
-  craco.
+</br>  styled components,
+</br>  axios,react-query,
+</br>  typescript,
+</br>  craco.
 
 gh-pages: https://vitaliikutsenko.github.io/rollerSoft/#/user
 
