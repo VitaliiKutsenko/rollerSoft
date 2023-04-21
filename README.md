@@ -1,18 +1,19 @@
-Запуск стандартный: npm start
+**Запуск стандартный:** 
 </br>
+                    npm start      
                     npm build
-                    </br>
                     npm deploy (для gh-pages)
 </br>
+----
 Версия Node: 18.16.0
 Сторонние библиотеки: 
 </br>  styled components,
 </br>  axios,react-query,
 </br>  typescript,
 </br>  craco.
-
+----
 gh-pages: https://vitaliikutsenko.github.io/rollerSoft/#/user
-
+----
 P.s!
 Пагинацию реализовал в userDetails осуществляется с помощю стрелок 
 в разделе "посты", так как слишком скудный пул в /users.
